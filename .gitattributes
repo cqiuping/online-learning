@@ -1,3 +1,1 @@
-*.jva linguist-language=Scala
-*.jsp linguist-language=Scala
-*.servlet linguist-language=Scala
+*.css linguist-language=java
